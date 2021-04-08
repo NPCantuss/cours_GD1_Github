@@ -4,13 +4,14 @@ using UnityEngine;
 
 public class test : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public float Test = 2;
+
     void Start()
     {
         //j'comprends pas git//
     }
 
-    // Update is called once per frame
+
     void Update()
     {
         
